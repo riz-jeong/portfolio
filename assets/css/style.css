@@ -530,6 +530,10 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio-title strong{
+  box-shadow: inset 0 -10px 0 #b9d6ff;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
@@ -681,6 +685,7 @@ section {
 
 .portfolio-details .portfolio-description {
   padding-top: 30px;
+  margin-bottom: 100px;
 }
 
 .portfolio-details .portfolio-description h2 {
